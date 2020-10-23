@@ -19,7 +19,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 - Brian Su: Computer science major who took this course for credit and is now in love with Pyhon and Pandas (not so much for data just yet; the excel scar remains)
 - Spandan Biswar: one sentence about you!
-- Kirti Mahato: Psychology major who nearly dropped the course because of the first lab but I'm currently loving this course. 
+- Kirti Mahato: Psychology major  
 
 ## References
 
