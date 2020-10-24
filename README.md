@@ -54,3 +54,4 @@ How: How was your data collected? Was it a human collecting the data? Historical
 ## References
 
 G. (2016, October 26). Video Game Sales. Retrieved October 24, 2020, from https://www.kaggle.com/gregorut/videogamesales Analyze sales data from more than 16,500 games.
+Alqunber, A., 2019. Video Games Sales 2019. [online] Kaggle.com. Available at: <https://www.kaggle.com/ashaheedq/video-games-sales-2019> [Accessed 24 October 2020].
