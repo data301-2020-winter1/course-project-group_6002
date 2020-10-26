@@ -9,6 +9,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
+With our analytics project, we first want to clean up all the data that are present in the database. From there, we want to use the tools at our disposal to understand more about sale trends of videos games in the past. We would like to know what factor or what various factors could have affected a games sale performance. Or if there are any correlation or relationship between sales and the different characteristics of a game such as the platform it is released on, genre, or etc. 
+Our interest in the topic arose from Brian and Spandan’s investment in video games. From present video games, to the old school classics on pre-PC platforms, it is a lot of nastalgia to visit while learning about data science. We want to explore to see if any variables are associated with higher sales of a game. If there are any continuous trends that persist in the sale data. Or if there are changes in the trends, we hope to be able to identify it and visualize it. 
+
+We are fairly confidant that we can build a user-facing Dashboard with this dataset. 
+
 
 What do you hope to do with your analytics project?
 - understand more about sale trends of video games 
