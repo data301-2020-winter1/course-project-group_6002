@@ -45,6 +45,8 @@ Why: What is the purpose of your dataset? Is it for transparency/accountability,
 How: How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
 - data scraped from vghcarts a website about games 
 
+The database of our interest was found posted on Kaggle by GregorySmith, a user on Kaggle, who had generated the database utilizing **[vgchartzScrape](https://github.com/GregorUT/vgchartzScrape)** on the website vgChartz. The data contained is everything about video game sales, with fields included such as: ranking of the over sales, name of the games, platform of which it was released, year of the release, genre, publisher, sales in different regions (NA, EU, JP, others), and total overall global sales. The original database was collected in 2016 which includes data from 1980 up to the date of collection. Subsequently inspired other users to follow suit in creating various other databases that were updated or contained other metrics for analysis. One example, is the linked dataset from 2019 which updates the original database we are using. The database was collected with the purpose of recording video game sales without having a specific purpose it would fulfil. However, it is certainly an interesting topic worthy of investigation. Our data was collected by a user running a data scraper to compile into the database we now have on hand. 
+
 ## Team Members
 
 - Brian Su: Computer science major who took this course for credit and is now in love with Pyhon and Pandas (not so much for data just yet; the excel scar remains)
