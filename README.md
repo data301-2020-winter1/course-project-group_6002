@@ -1,7 +1,7 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311713&assignment_repo_type=GroupAssignmentRepo)
 # Group 6002 - {Short snappy Title of your project}
 
-- Your title can change over time.
+-Video games analysis
 
 ## Milestones
 
@@ -19,11 +19,11 @@ What do you hope to do with your analytics project?
 - various factors that associate with sales such as ranking, platform, genre etc
 
 Why are you interested in this topic or dataset?
-- Spandan and Brian are quite the video game enthusiast
-- database of past sales is a lot of nastalgia to visit while learning about data 
+- Spandan and Brian are quite the video game enthusiasts
+- database of past sales has a lot of nostalgia for us while learning about data 
 
 Do you have any questions you specifically want to explore?
-- video game sales are interesting cause you never really know what could be popular and whatnot
+- video game sales are interesting because you never really know what could become popular
 - any continuous trends that were persistent or have changed over time
 
 Could you imagine building a user-facing Dashboard with this dataset?
@@ -37,7 +37,7 @@ Who: Which company/agency/organization provided this data?
 - GregorySmith a user on kaggle.com that used the vghartzScrape tool on github to generate the database
 
 What: What is in your data?
-- it is created 2016 with sale data of diff games in various regions 
+- it is created 2016 with sale data of different games in various regions 
 
 When: When was your data collected (for example, for which years)?
 - 2016 for the data collection with possibility of having 2019 data that came with the extended db
