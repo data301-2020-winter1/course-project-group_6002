@@ -1,28 +1,27 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311713&assignment_repo_type=GroupAssignmentRepo)
 # Group 6002 - Video Games Analysis
 
-
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
 
 ## Describe your topic/interest in about 150-200 words
 
-With our analytics project, we first want to clean up all the data present in the database. From there, to understand more about the sale trends of video games in the past. We would like to know what factors or what various factors could have affected a game's sales performance. Or if there are any correlation or relationship between sales and the different characteristics of a game such as a platform it is released on, genre, etc. Our interest in the topic arose from Brian and Spandan’s investment in video games. From present video games to the old school classics on pre-PC platforms, it is much nostalgia to visit while learning about data science. We want to explore to see if any variables are associated with higher sales of a game. Suppose any continuous trends persist in the sale data. Does it change over time? If there are changes in the directions, we hope to identify it and visualize it.
+With our analytics project, we first want to clean up all the data present in the database. From there, to understand more about the sale trends of video games in the past. We would like to know what factors could have affected a game's sales performance. Or if there is any relationship between the sales and the different characteristics of a game such as a platform it is released on, its genre, etc. Our interest in the topic arose from Brian and Spandan’s investment in video games. From present video games to the old school classics on pre-PC platforms, this topic is nostalgic for us. We want to explore and see how different variables are associated with the number of sales of a game. Suppose any continuous trends persist in the sale data, how does it change over time? If there are changes in the directions, we hope to identify it and visualize it.
 
 We are fairly confidant that we can build a user-facing Dashboard with this dataset. 
 
 
 What do you hope to do with your analytics project?
-- understand more about sale trends of video games 
-- various factors that associate with sales such as ranking, platform, genre etc
+- to understand more about trends in the sales of video games 
+- how various factors are associated with sales such as ranking, platform, genre etc
 
 Why are you interested in this topic or dataset?
 - Spandan and Brian are quite the video game enthusiasts
 - database of past sales has a lot of nostalgia for us while learning about data 
 
 Do you have any questions you specifically want to explore?
-- video game sales are interesting because you never really know what could become popular
+- video game sales are interesting because you never really know what could become popular 
 - any continuous trends that were persistent or have changed over time
 
 Could you imagine building a user-facing Dashboard with this dataset?
@@ -52,7 +51,7 @@ The database of our interest was posted on Kaggle by GregorySmith, a user on Kag
 ## Team Members
 
 - Brian Su: Computer science major who took this course for credit and is now in love with Pyhon and Pandas (not so much for data just yet; the excel scar remains)
-- Spandan Biswar: one sentence about you!
+- Spandan Biswar: 
 - Kirti Mahato: Psychology major  
 
 ## References
