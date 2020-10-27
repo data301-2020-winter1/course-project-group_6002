@@ -23,6 +23,7 @@ Why are you interested in this topic or dataset?
 Do you have any questions you specifically want to explore?
 - video game sales are interesting because you never really know what could become popular 
 - any continuous trends that were persistent or have changed over time
+- we could look at trends between game genre/console against sales in different regions/the developer which made the game
 
 Could you imagine building a user-facing Dashboard with this dataset?
       Note: In the final weeks of the course you will be building a Dashboard with your data so choose wisely
@@ -51,7 +52,7 @@ The database of our interest was posted on Kaggle by GregorySmith, a user on Kag
 ## Team Members
 
 - Brian Su: Computer science major who took this course for credit and is now in love with Pyhon and Pandas (not so much for data just yet; the excel scar remains)
-- Spandan Biswar: 
+- Spandan Biswas: Economics Major with a Data minor
 - Kirti Mahato: Psychology major  
 
 ## References
