@@ -23,4 +23,4 @@ def load_and_process(filePath):
     return dfWii
 
 
-load_and_process("../../data/raw/Video_game_sales_db.csv")
+#load_and_process("../../data/raw/Video_game_sales_db.csv")
