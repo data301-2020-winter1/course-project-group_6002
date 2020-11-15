@@ -3,8 +3,8 @@ def load_and_process_all(filePath):
     import statistics as stsc
     dfClean = (
         pd.read_csv(filePath,
-        usecols = ["Rank", "Name", "Publisher", "Platform", "Genre", "Global_Sales", "Crit_Score","Year"]) # So far our only focus of work
-        .sort_values(by= "Rank", ascending = False) # Cash money check
+        usecols = ["Rank", "Name", "Publisher", "Platform", "Genre", "Critic_Score","Year"]) # So far our only focus of work
+        .sort_values(by= "Rank", ascending = True) # Cash money check
         #.loc[lambda x: x["Year"] >= 2000] # Check for only recent games
         .dropna(axis = 0, thresh = 2) # Drop any NA values completely
         #.loc[lambda x: x["Global_Sales"].between(15, 90.00)]
@@ -22,3 +22,5 @@ def load_and_process_all(filePath):
     )
 
     return df2019
+
+load_and_process_all("../../data/raw/vgsales-12-4-2019.csv")
