@@ -87,8 +87,7 @@ def genre_popularity_new(filepath):
 def top_genre_best(filepath):
     import pandas as pd
     import numpy as np
-    df = pd.read_csv(filepath)
-
+    
     dfGR = df[["Rank","Name","Genre","Year","NA_Sales","EU_Sales","JP_Sales","Other_Sales"]]
     
     dfGR_Clean = (
