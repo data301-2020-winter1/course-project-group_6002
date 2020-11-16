@@ -8,7 +8,7 @@ def load_and_process_all(filePath):
         .sort_values(by= "Global_Sales", ascending = False) # Cash money check
         #.loc[lambda x: x["Year"] >= 2000] # Check for only recent games
         .dropna(axis = 0, thresh = 3) # Drop any NA values completely
-        .loc[lambda x: x["Global_Sales"].between(15, 90.00)]
+        .loc[lambda x: x["Global_Sales"].between(9, 90.00)]
         #Excessive low number sales mess up our median so we are removing it for now by specifying values between 15-90
         .reset_index(drop=True) # Reset index so we don't mess up orders
     )
@@ -82,3 +82,4 @@ def load_and_process_nintendo(filePath):
 #dfAllM = load_and_process_all("../../data/raw/Video_game_sales_db.csv")
 #dfWiiM= load_and_process_wii("../../data/raw/Video_game_sales_db.csv")
 #dfNinM= load_and_process_nintendo("../../data/raw/Video_game_sales_db.csv")
+#dfAllM
