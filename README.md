@@ -11,42 +11,13 @@ With our analytics project, we first want to clean up all the data present in th
 
 We are fairly confidant that we can build a user-facing Dashboard with this dataset. 
 
-
-What do you hope to do with your analytics project?
-- to understand more about trends in the sales of video games 
-- how various factors are associated with sales such as ranking, platform, genre etc
-
-Why are you interested in this topic or dataset?
-- Spandan and Brian are quite the video game enthusiasts
-- database of past sales has a lot of nostalgia for us while learning about data 
-
-Do you have any questions you specifically want to explore?
-- video game sales are interesting because you never really know what could become popular 
-- any continuous trends that were persistent or have changed over time
-- we could look at trends between game genre/console against sales in different regions/the developer which made the game
-
-Could you imagine building a user-facing Dashboard with this dataset?
+> Could you imagine building a user-facing Dashboard with this dataset?
       Note: In the final weeks of the course you will be building a Dashboard with your data so choose wisely
       - I think so
       https://www.datapine.com/blog/data-dashboards-definition-examples-templates/
+>
      
 ## Describe your dataset in about 150-200 words
-
-Who: Which company/agency/organization provided this data?
-- GregorySmith a user on kaggle.com that used the vghartzScrape tool on github to generate the database
-
-What: What is in your data?
-- it is created 2016 with sale data of different games in various regions 
-
-When: When was your data collected (for example, for which years)?
-- 2016 for the data collection with possibility of having 2019 data that came with the extended db
-- the dataset contains data about video game sales from as old as 1980
-
-Why: What is the purpose of your dataset? Is it for transparency/accountability, public interest, fun, learning, etc…
-- data tracking, public interest, fun, and learning too
-
-How: How was your data collected? Was it a human collecting the data? Historical records digitized? Server logs?
-- data scraped from vghcarts a website about games 
 
 The database of our interest was posted on Kaggle by GregorySmith, a user on Kaggle, who had generated the database utilizing **[vgchartzScrape](https://github.com/GregorUT/vgchartzScrape)** on the website vgChartz. The data contained is everything about video game sales, with fields included such as ranking of the over sales, name of the games, platform of which it was released, year of the release, genre, publisher, sales in different regions (NA, EU, JP, others), and total overall global sales. The original database collected in 2016 includes data from 1980 up to the date of collection. Subsequently inspired other users to follow suit in creating various other databases that were updated or contained other metrics for analysis. One example is the linked dataset from 2019, which updates the original database we are using. The database was collected to record video game sales without having a specific purpose it would fulfill. However, it is undoubtedly an interesting topic worthy of investigation. Our data was collected by a user running a data scraper to compile into the database we now have on hand. 
 ## Team Members
