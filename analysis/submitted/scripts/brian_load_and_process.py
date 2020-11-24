@@ -6,7 +6,7 @@ def load_and_process_all(filePath):
 
     dfClean = (
         pd.read_csv(filePath,
-        usecols = ["Rank", "Name", "Publisher", "Platform", "Genre", "NA_Sales", "EU_Sales", "JP_Sales", "Global_Sales", "Year"]) # So far our only focus of work
+        usecols = ["Rank", "Name", "Publisher", "Platform", "Genre", "NA_Sales", "EU_Sales", "JP_Sales", "Other_Sales", "Global_Sales", "Year"]) # So far our only focus of work
         # The global sales account for all regional sales so I am omitting the sales by region for this exploration
         .sort_values(by= "Global_Sales", ascending = False) # Cash money check
         #.loc[lambda x: x["Year"] >= 2000] # Check for only recent games
@@ -32,7 +32,7 @@ def load_and_process_wii(filePath):
 
     dfClean = (
         pd.read_csv(filePath,
-        usecols = ["Rank", "Name", "Genre", "Global_Sales", "Year", "Platform"]) # So far our only focus of work
+        usecols = ["Rank", "Name", "Publisher", "Platform", "Genre", "NA_Sales", "EU_Sales", "JP_Sales", "Other_Sales", "Global_Sales", "Year"]) # So far our only focus of work
         .sort_values(by = "Global_Sales", ascending = False) # Cash money check
         .dropna(axis = 0, thresh = 3) # Drop any NA values completely
         .loc[lambda x: x["Global_Sales"].between(5, 90.00)] # Remove the overkill outlier Wii sport saes at 80
@@ -56,7 +56,7 @@ def load_and_process_nintendo(filePath):
 
     dfClean = (
         pd.read_csv(filePath,
-        usecols = ["Rank", "Name", "Publisher", "Platform", "Genre", "Global_Sales", "Year"]) # So far our only focus of work
+        usecols = ["Rank", "Name", "Publisher", "Platform", "Genre", "NA_Sales", "EU_Sales", "JP_Sales", "Other_Sales", "Global_Sales", "Year"]) # So far our only focus of work
         .sort_values(by= "Global_Sales", ascending = False) # Cash money check
         .dropna(axis = 0, thresh = 3) # Drop any NA values completely
         .loc[lambda x: x["Global_Sales"].between(5, 90.00)] # Remove the overkill outlier Wii sport saes at 80
