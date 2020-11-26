@@ -24,7 +24,7 @@ def load_and_process_all(filePath):
         .sort_values(by= "Averaged_Sales", ascending = False) # Re-sort in case any vales got changed
         .reset_index(drop = True) # Order things nicely
     )
-    dfAll.to_csv("processed_data_All.csv", index=False)
+    #dfAll.to_csv("processed_data_All.csv", index=False)
     return dfAll
 
 def load_and_process_wii(filePath):
@@ -48,7 +48,7 @@ def load_and_process_wii(filePath):
         .sort_values(by= "Global_Sales", ascending = False) # Re-sort in case any vales got changed
         .reset_index(drop = True) # Order things nicely
     )
-    dfWii.to_csv("processed_data_wii.csv", index=False)
+    #dfWii.to_csv("processed_data_wii.csv", index=False)
     return dfWii
 
 
@@ -79,7 +79,7 @@ def load_and_process_nintendo(filePath):
         .reset_index(drop = True) # Order things nicely
     )
 
-    dfNin.to_csv("processed_data_nin.csv", index=False)
+    #dfNin.to_csv("processed_data_nin.csv", index=False)
     return dfNin
 
 
