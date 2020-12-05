@@ -1,4 +1,3 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=311713&assignment_repo_type=GroupAssignmentRepo)
 # Group 6002 - Video Games Analysis
 
 ## Milestones
@@ -29,14 +28,13 @@ Brian's dashboard: [Go explore the dashboard](https://dub01.online.tableau.com/#
 Spandan's dashboard: [Go explore the dashboard](https://dub01.online.tableau.com/t/data301dashboards/views/spandan_dashboard_videogames/VideoGamesanditsHistory?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
 ![Spandan's dashboard](/images/Spandan_Dashboard.png)
 
-Final Dashboard Milestone 4: [Go explore the dashboard](https://dub01.online.tableau.com/#/site/data301dashboards/workbooks/525253?:origin=card_share_link) 
-![Combined Dashboard screenshot](/images/Mileston4_Dashboard.png)
+Final Dashboard Milestone 4: [Go explore the dashboard](https://dub01.online.tableau.com/#/site/data301dashboards/workbooks/525253?:origin=card_share_link)
+![Combined Dashboard screenshot](/images/Milestone4_Dashboard.png)
 
 ## Team Members
 
 - Brian Su: Computer science major who took this course for credit and is now in love with Pyhon and Pandas (not so much for data just yet; the excel scar remains)
 - Spandan Biswas: Economics Major with a Data minor
-- Kirti Mahato: Psychology major  
 
 ## References
 
