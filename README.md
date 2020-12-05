@@ -26,7 +26,11 @@ Brian's dashboard: [Go explore the dashboard](https://dub01.online.tableau.com/#
 ![Brian's dashboard screenshot](/images/Brian_Dashboard.png)  
 
 
-Spandan's dashboard: >  
+Spandan's dashboard: [Go explore the dashboard](https://dub01.online.tableau.com/t/data301dashboards/views/spandan_dashboard_videogames/VideoGamesanditsHistory?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+![Spandan's dashboard](/images/Spandan_Dashboard.png)
+
+Final Dashboard Milestone 4: [Go explore the dashboard](https://dub01.online.tableau.com/#/site/data301dashboards/workbooks/525253?:origin=card_share_link) 
+![Combined Dashboard screenshot](/images/Mileston4_Dashboard.png)
 
 ## Team Members
 
@@ -36,5 +40,6 @@ Spandan's dashboard: >
 
 ## References
 
-G. (2016, October 26). Video Game Sales. Retrieved October 24, 2020, from https://www.kaggle.com/gregorut/videogamesales Analyze sales data from more than 16,500 games.
+G. (2016, October 26). Video Game Sales. Retrieved October 24, 2020, from https://www.kaggle.com/gregorut/videogamesales Analyze sales data from more than 16,500 games.  
+
 Alqunber, A., 2019. Video Games Sales 2019. [online] Kaggle.com. Available at: <https://www.kaggle.com/ashaheedq/video-games-sales-2019> [Accessed 24 October 2020].
