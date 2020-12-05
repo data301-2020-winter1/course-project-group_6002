@@ -20,6 +20,9 @@ We are fairly confidant that we can build a user-facing Dashboard with this data
 
 The database of our interest was posted on Kaggle by GregorySmith, a user on Kaggle, who had generated the database utilizing **[vgchartzScrape](https://github.com/GregorUT/vgchartzScrape)** on the website vgChartz. The data contained is everything about video game sales, with fields included such as ranking of the over sales, name of the games, platform of which it was released, year of the release, genre, publisher, sales in different regions (NA, EU, JP, others), and total overall global sales. The original database collected in 2016 includes data from 1980 up to the date of collection. Subsequently inspired other users to follow suit in creating various other databases that were updated or contained other metrics for analysis. One example is the linked dataset from 2019, which updates the original database we are using. The database was collected to record video game sales without having a specific purpose it would fulfill. However, it is undoubtedly an interesting topic worthy of investigation. Our data was collected by a user running a data scraper to compile into the database we now have on hand.
 
+## Screencast Presentation
+[![Screencast presentation of group 6002](/images/Milestone4_Dashboard.png)](https://drive.google.com/file/d/1Mdx-nxxaSl0KBAjhCSMzRXt8UQkwuhL-/view?usp=sharing "Video Title")
+
 ## Tableau dashboard links
 Brian's dashboard: [Go explore the dashboard](https://dub01.online.tableau.com/#/site/data301dashboards/workbooks/521541?:origin=card_share_link)
 ![Brian's dashboard screenshot](/images/Brian_Dashboard.png)  
